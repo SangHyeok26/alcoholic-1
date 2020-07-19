@@ -18,6 +18,7 @@
             android:orientation="horizontal"
             app:layout_constraintGuide_percent="0.08" />
 
+
         <androidx.constraintlayout.widget.Guideline
             android:id="@+id/startPanel"
             android:layout_width="wrap_content"
