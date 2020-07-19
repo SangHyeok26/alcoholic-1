@@ -12,6 +12,9 @@
     <color name="jinRoColorDark">#008ba3</color>
     <color name="jinRoColorLight">#62efff</color>
 
+    <color name="backgroundColor">#81c784</color>
+
+
     <color name="RoomSearchingBackground">#80000000</color>
 
 </resources>
